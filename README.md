@@ -156,3 +156,6 @@ AI-Placement-Predictor
 ├── README.md
 └── .gitignore
 ```
+
+## 🌐 Live Demo
+https://ai-placement-predictor.streamlit.app/
